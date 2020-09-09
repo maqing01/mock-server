@@ -4,7 +4,7 @@
   "description": "接口数据伪造服务",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "mock": "nodemon ./index.js"
   },
   "repository": {
     "type": "git",
