@@ -18,5 +18,9 @@
   "homepage": "https://github.com/maqing01/mock-server#readme",
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "dotenv-expand": "^5.1.0"
   }
 }
