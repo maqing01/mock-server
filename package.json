@@ -1,0 +1,25 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "接口数据伪造服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maqing01/mock-server.git"
+  },
+  "author": "",
+  "license": "Apache2.0",
+  "bugs": {
+    "url": "https://github.com/maqing01/mock-server/issues"
+  },
+  "homepage": "https://github.com/maqing01/mock-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
